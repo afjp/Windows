@@ -6,6 +6,8 @@ public class UI {
         //be careful with the next line. VCS ; git ->> to have git master viewable
 
         System.out.println("XY resolution");
+
+        System.out.println("extra commit");
     }
 
 }
