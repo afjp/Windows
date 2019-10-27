@@ -10,4 +10,8 @@ public class UI {
         System.out.println("extra commit  ");
     }
 
+    public void HDScreen(){
+        System.out.println("This is HD!");
+
+    }
 }
