@@ -7,7 +7,7 @@ public class UI {
 
         System.out.println("XY resolution");
 
-        System.out.println("extra commit");
+        System.out.println("extra commit  ");
     }
 
 }
